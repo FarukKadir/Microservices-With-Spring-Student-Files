@@ -1,4 +1,4 @@
 ---
 wordConfig:
-  preamble: The your lucky word is
-  luckyWord: Faruk
+  preamble: The your unlucky word is
+  luckyWord: NulPointerException
